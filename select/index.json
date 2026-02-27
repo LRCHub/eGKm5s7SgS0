@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ちょ、尊いLOVE",
+  "base_artist": "Ruri&To",
+  "createdAt": "2026-02-27T07:23:00.027432Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちょ、尊いLOVE",
+      "artist": "Ruri&To",
+      "has_synced": false,
+      "path": "select/pl_01_ちょ、尊いLOVE_Ruri&To.txt"
+    }
+  ]
+}
